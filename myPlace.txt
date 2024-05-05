@@ -1,0 +1,3 @@
+Las habitaciones escojidas son la 2 y la 1
+La misma le costara: 1000
+Nombre de cuarto 2: CristhianNombre de cuarto 1: Andres
